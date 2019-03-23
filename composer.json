@@ -1,0 +1,27 @@
+{
+  "name": "kaleidpixel/line-oauth",
+  "description": "Integrating LINE Login with your web app.",
+  "license": "MIT",
+  "version": "0.0.1",
+  "homepage": "https://github.com/kaleidpixel/line-oauth",
+  "type": "library",
+  "authors": [
+    {
+      "name": "KUCKLU",
+      "email": "oss@kaleidpixel.jp",
+      "homepage": "https://www.kaleidpixel.jp",
+      "role": "Developer"
+    }
+  ],
+  "keywords": [
+    "kaleidpixel",
+    "line-oauth",
+    "oauth",
+    "line"
+  ],
+  "autoload": {
+    "psr-4": {
+      "KaleidPixel\\OAuth\\": "src"
+    }
+  }
+}
